@@ -1,1 +1,1 @@
-# Sea Surface Height Anomalies of China seas from ICESat-2
+# Sea Surface Height Anomalies from ICESat-2
